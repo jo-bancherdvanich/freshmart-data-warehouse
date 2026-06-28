@@ -1,0 +1,516 @@
+CustomerID,AgeGroup,Gender,LoyaltyTier,PostCode,MemberSince
+C0172,45-54,Prefer not to say,Silver,4000,6/1/2018
+C0073,35-44,Female,Silver,2000,8/1/2018
+C0493,18-24,Non-binary,Bronze,6000,8/1/2018
+C0455,55-64,Female,Bronze,4000,11/1/2018
+C0470,35-44,Prefer not to say,Bronze,2000,14/1/2018
+C0294,25-34,Non-binary,Gold,3121,16/1/2018
+C0064,45-54,Male,Bronze,3175,20/1/2018
+C0238,35-44,Male,Bronze,5152,29/1/2018
+C0357,35-44,Male,Bronze,6000,3/2/2018
+C0032,18-24,Non-binary,Gold,2000,9/2/2018
+C0129,65+,Male,Gold,2150,9/2/2018
+C0485,45-54,Non-binary,Silver,6000,14/2/2018
+C0103,18-24,Female,Gold,5000,20/2/2018
+C0378,55-64,Female,Silver,2150,8/3/2018
+C0460,45-54,Prefer not to say,Bronze,6000,16/3/2018
+C0362,35-44,Female,Bronze,3175,17/3/2018
+C0459,25-34,Prefer not to say,Gold,3121,18/3/2018
+C0427,25-34,Non-binary,Silver,4350,21/3/2018
+C0131,18-24,Female,Bronze,3000,24/3/2018
+C0139,35-44,Prefer not to say,Silver,3004,26/3/2018
+C0315,45-54,Female,Bronze,4000,26/3/2018
+C0363,35-44,Non-binary,Silver,4350,27/3/2018
+C0298,45-54,Male,Bronze,3004,28/3/2018
+C0262,65+,Non-binary,Bronze,3000,30/3/2018
+C0356,65+,Prefer not to say,Gold,2000,31/3/2018
+C0205,35-44,Prefer not to say,Silver,2067,31/3/2018
+C0293,25-34,Prefer not to say,Gold,3000,4/4/2018
+C0216,35-44,Male,Bronze,2150,5/4/2018
+C0289,65+,Male,Bronze,5152,12/4/2018
+C0057,55-64,Prefer not to say,Silver,4350,13/4/2018
+C0413,35-44,Prefer not to say,Gold,2067,14/4/2018
+C0072,18-24,Prefer not to say,Silver,3000,15/4/2018
+C0342,45-54,Non-binary,Bronze,3004,20/4/2018
+C0483,45-54,Female,Silver,4000,24/4/2018
+C0313,35-44,Non-binary,Bronze,3004,27/4/2018
+C0053,25-34,Prefer not to say,Bronze,2067,1/5/2018
+C0263,45-54,Prefer not to say,Bronze,3004,5/5/2018
+C0480,55-64,Female,Silver,3121,7/5/2018
+C0439,65+,Female,Silver,4350,8/5/2018
+C0118,25-34,Prefer not to say,Bronze,5000,8/5/2018
+C0260,45-54,Prefer not to say,Silver,4350,11/5/2018
+C0392,35-44,Prefer not to say,Gold,6000,15/5/2018
+C0355,55-64,Male,Bronze,4000,19/5/2018
+C0086,35-44,Non-binary,Silver,2067,23/5/2018
+C0041,65+,Male,Bronze,3000,26/5/2018
+C0177,18-24,Female,Silver,5000,27/5/2018
+C0104,45-54,Prefer not to say,Gold,5000,30/5/2018
+C0423,45-54,Prefer not to say,Silver,2000,31/5/2018
+C0394,25-34,Non-binary,Silver,4000,1/6/2018
+C0374,65+,Prefer not to say,Bronze,6000,3/6/2018
+C0308,25-34,Prefer not to say,Bronze,5000,4/6/2018
+C0236,25-34,Female,Gold,6000,4/6/2018
+C0137,55-64,Female,Bronze,2000,5/6/2018
+C0404,18-24,Non-binary,Silver,5000,16/6/2018
+C0317,55-64,Female,Bronze,6000,22/6/2018
+C0325,35-44,Prefer not to say,Silver,2150,23/6/2018
+C0034,65+,Prefer not to say,Silver,4350,25/6/2018
+C0003,55-64,Prefer not to say,Bronze,3004,28/6/2018
+C0302,45-54,Male,Bronze,5000,30/6/2018
+C0214,45-54,Male,Silver,6000,5/7/2018
+C0182,25-34,Male,Gold,5152,7/7/2018
+C0273,45-54,Male,Silver,2150,10/7/2018
+C0271,35-44,Prefer not to say,Bronze,2000,14/7/2018
+C0469,25-34,Female,Bronze,3175,15/7/2018
+C0051,18-24,Male,Gold,3175,20/7/2018
+C0170,25-34,Female,Bronze,3004,23/7/2018
+C0268,65+,Male,Gold,5152,23/7/2018
+C0208,55-64,Prefer not to say,Bronze,3121,24/7/2018
+C0215,45-54,Female,Silver,3000,25/7/2018
+C0013,45-54,Non-binary,Bronze,2150,26/7/2018
+C0008,18-24,Prefer not to say,Bronze,2150,29/7/2018
+C0162,18-24,Non-binary,Bronze,4000,30/7/2018
+C0462,35-44,Non-binary,Bronze,5152,8/8/2018
+C0420,45-54,Female,Gold,6000,9/8/2018
+C0083,45-54,Male,Gold,3175,10/8/2018
+C0240,65+,Female,Bronze,5000,10/8/2018
+C0420,45-54,Female,Gold,6000,11/8/2018
+C0028,35-44,Prefer not to say,Bronze,3000,17/8/2018
+C0496,18-24,Prefer not to say,Silver,3000,20/8/2018
+C0381,18-24,Female,Bronze,2067,21/8/2018
+C0164,18-24,Prefer not to say,Bronze,5000,21/8/2018
+C0164,18-24,Prefer not to say,Bronze,5000,22/8/2018
+C0133,55-64,Female,Bronze,2000,23/8/2018
+C0090,45-54,Female,Bronze,6000,25/8/2018
+C0244,18-24,Female,Gold,3121,26/8/2018
+C0039,25-34,Female,Bronze,3000,5/9/2018
+C0412,35-44,Prefer not to say,Bronze,3004,8/9/2018
+C0010,45-54,Male,Silver,5152,13/9/2018
+C0035,25-34,Prefer not to say,Gold,3121,15/9/2018
+C0207,55-64,Non-binary,Gold,4000,16/9/2018
+C0259,65+,Prefer not to say,Silver,6000,17/9/2018
+C0326,65+,Male,Silver,2067,19/9/2018
+C0256,55-64,Non-binary,Silver,3004,24/9/2018
+C0274,55-64,Male,Silver,4350,24/9/2018
+C0063,65+,Non-binary,Bronze,3004,26/9/2018
+C0331,55-64,Prefer not to say,Bronze,3121,26/9/2018
+C0126,45-54,Female,Bronze,2067,5/10/2018
+C0338,35-44,Male,Silver,2150,11/10/2018
+C0243,18-24,Male,Bronze,4000,14/10/2018
+C0500,55-64,Non-binary,Bronze,6000,14/10/2018
+C0220,25-34,Prefer not to say,Silver,4000,21/10/2018
+C0426,25-34,Prefer not to say,Silver,3000,23/10/2018
+C0106,65+,Male,Gold,3004,30/10/2018
+C0076,55-64,Male,Silver,5000,2/11/2018
+C0024,65+,Female,Silver,2067,10/11/2018
+C0398,35-44,Female,Bronze,6000,10/11/2018
+C0278,65+,Prefer not to say,Bronze,3004,13/11/2018
+C0247,45-54,Male,Silver,5000,13/11/2018
+C0329,18-24,Non-binary,Silver,3004,14/11/2018
+C0171,25-34,Female,Silver,3121,18/11/2018
+C0058,18-24,Male,Gold,3004,19/11/2018
+C0408,45-54,Prefer not to say,Bronze,3175,20/11/2018
+C0187,35-44,Prefer not to say,Silver,2000,26/11/2018
+C0074,65+,Prefer not to say,Silver,2067,27/11/2018
+C0074,65+,Prefer not to say,Silver,2067,29/11/2018
+C0081,25-34,Prefer not to say,Bronze,6000,29/11/2018
+C0014,35-44,Non-binary,Bronze,2000,30/11/2018
+C0481,35-44,Prefer not to say,Bronze,3175,3/12/2018
+C0052,45-54,Prefer not to say,Bronze,2067,7/12/2018
+C0100,65+,Male,Bronze,5152,14/12/2018
+C0385,65+,Prefer not to say,Gold,5152,20/12/2018
+C0441,45-54,Non-binary,Silver,5152,21/12/2018
+C0370,55-64,Non-binary,Bronze,3004,5/1/2019
+C0466,18-24,Non-binary,Silver,5000,17/1/2019
+C0251,18-24,Prefer not to say,Bronze,3175,24/1/2019
+C0045,18-24,Male,Silver,2150,25/1/2019
+C0199,55-64,Female,Gold,2000,26/1/2019
+C0150,18-24,Female,Silver,4000,27/1/2019
+C0105,65+,Prefer not to say,Bronze,3175,3/2/2019
+C0400,65+,Non-binary,Bronze,2000,7/2/2019
+C0084,45-54,Non-binary,Bronze,3175,13/2/2019
+C0384,18-24,Female,Gold,4000,14/2/2019
+C0450,55-64,Non-binary,Gold,6000,18/2/2019
+C0192,35-44,Female,Gold,4000,21/2/2019
+C0254,55-64,Female,Silver,3175,1/3/2019
+C0019,55-64,Non-binary,Bronze,4000,9/3/2019
+C0328,35-44,Prefer not to say,Bronze,3121,15/3/2019
+C0043,55-64,Female,Silver,5000,15/3/2019
+C0056,18-24,Male,Silver,3000,22/3/2019
+C0486,55-64,Male,Bronze,2150,23/3/2019
+C0478,25-34,Male,Silver,4350,24/3/2019
+C0004,25-34,Male,Silver,6000,24/3/2019
+C0229,65+,Female,Silver,5152,25/3/2019
+C0341,45-54,Non-binary,Gold,2067,31/3/2019
+C0085,18-24,Female,Bronze,2000,2/4/2019
+C0002,25-34,Male,Silver,4350,3/4/2019
+C0389,18-24,Female,Silver,3175,5/4/2019
+C0130,65+,Male,Silver,5152,5/4/2019
+C0176,65+,Female,Gold,3121,6/4/2019
+C0399,35-44,Non-binary,Silver,2000,7/4/2019
+C0453,65+,Female,Bronze,2067,8/4/2019
+C0018,18-24,Non-binary,Bronze,3004,15/4/2019
+C0297,55-64,Non-binary,Bronze,6000,17/4/2019
+C0225,45-54,Non-binary,Silver,6000,1/5/2019
+C0349,35-44,Male,Bronze,2067,2/5/2019
+C0204,55-64,Prefer not to say,Bronze,2067,5/5/2019
+C0033,18-24,Female,Gold,3004,6/5/2019
+C0452,25-34,Male,Silver,4350,6/5/2019
+C0497,25-34,Male,Bronze,3000,8/5/2019
+C0352,65+,Female,Bronze,3000,11/5/2019
+C0436,18-24,Male,Bronze,4000,12/5/2019
+C0253,25-34,Female,Bronze,4350,14/5/2019
+C0066,35-44,Non-binary,Bronze,4350,16/5/2019
+C0443,35-44,Non-binary,Bronze,2000,20/5/2019
+C0060,55-64,Male,Silver,2067,20/5/2019
+C0021,65+,Non-binary,Silver,2067,21/5/2019
+C0414,25-34,Non-binary,Gold,6000,24/5/2019
+C0050,18-24,Prefer not to say,Silver,4350,27/5/2019
+C0189,35-44,Male,Gold,2067,1/6/2019
+C0221,65+,Male,Gold,4000,7/6/2019
+C0295,35-44,Non-binary,Bronze,4000,7/6/2019
+C0295,35-44,Non-binary,Bronze,4000,8/6/2019
+C0307,25-34,Female,Silver,5152,9/6/2019
+C0347,25-34,Female,Silver,6000,9/6/2019
+C0307,25-34,Female,Silver,5152,10/6/2019
+C0088,25-34,Non-binary,Bronze,5000,19/6/2019
+C0029,55-64,Female,Silver,3004,24/6/2019
+C0069,18-24,Male,Silver,3121,26/6/2019
+C0036,55-64,Prefer not to say,Gold,4350,27/6/2019
+C0054,45-54,Non-binary,Bronze,6000,28/6/2019
+C0369,18-24,Prefer not to say,Bronze,5000,1/7/2019
+C0145,35-44,Female,Silver,3004,4/7/2019
+C0183,55-64,Male,Silver,3121,6/7/2019
+C0017,65+,Female,Silver,3000,7/7/2019
+C0451,25-34,Male,Silver,5000,11/7/2019
+C0070,35-44,Female,Silver,3175,12/7/2019
+C0340,45-54,Female,Silver,3004,13/7/2019
+C0366,18-24,Non-binary,Bronze,2067,14/7/2019
+C0446,35-44,Male,Silver,4350,15/7/2019
+C0113,55-64,Prefer not to say,Silver,2000,22/7/2019
+C0006,18-24,Female,Silver,2150,24/7/2019
+C0007,25-34,Female,Gold,2150,24/7/2019
+C0128,45-54,Non-binary,Silver,4000,24/7/2019
+C0146,45-54,Female,Silver,5000,26/7/2019
+C0334,65+,Prefer not to say,Bronze,3175,7/8/2019
+C0365,35-44,Male,Gold,2150,9/8/2019
+C0222,65+,Female,Bronze,2150,13/8/2019
+C0444,65+,Female,Silver,4000,15/8/2019
+C0461,18-24,Male,Bronze,5000,16/8/2019
+C0448,18-24,Non-binary,Gold,3004,18/8/2019
+C0173,18-24,Female,Bronze,2000,20/8/2019
+C0197,55-64,Non-binary,Bronze,4000,21/8/2019
+C0226,18-24,Prefer not to say,Bronze,5000,28/8/2019
+C0159,25-34,Non-binary,Bronze,3000,30/8/2019
+C0201,55-64,Prefer not to say,Gold,4000,4/9/2019
+C0120,45-54,Prefer not to say,Silver,6000,4/9/2019
+C0430,55-64,Non-binary,Silver,4350,5/9/2019
+C0068,65+,Male,Gold,3121,6/9/2019
+C0093,55-64,Non-binary,Silver,2150,8/9/2019
+C0224,25-34,Prefer not to say,Gold,3004,11/9/2019
+C0166,18-24,Female,Bronze,2067,15/9/2019
+C0179,65+,Prefer not to say,Gold,4350,15/9/2019
+C0097,35-44,Female,Bronze,5000,15/9/2019
+C0169,55-64,Male,Silver,6000,18/9/2019
+C0156,35-44,Female,Bronze,3175,20/9/2019
+C0473,25-34,Prefer not to say,Silver,6000,21/9/2019
+C0433,65+,Male,Silver,2000,23/9/2019
+C0283,35-44,Non-binary,Bronze,3121,25/9/2019
+C0335,45-54,Female,Bronze,5000,26/9/2019
+C0474,65+,Male,Silver,2000,29/9/2019
+C0135,18-24,Male,Gold,5000,30/9/2019
+C0287,65+,Non-binary,Silver,5000,1/10/2019
+C0277,35-44,Male,Silver,3175,2/10/2019
+C0415,25-34,Female,Bronze,4350,3/10/2019
+C0299,55-64,Prefer not to say,Silver,6000,4/10/2019
+C0437,45-54,Female,Bronze,3175,5/10/2019
+C0157,18-24,Female,Bronze,6000,9/10/2019
+C0310,25-34,Prefer not to say,Bronze,4000,10/10/2019
+C0445,45-54,Non-binary,Silver,6000,12/10/2019
+C0429,25-34,Prefer not to say,Gold,6000,15/10/2019
+C0410,65+,Non-binary,Gold,3121,16/10/2019
+C0115,55-64,Male,Bronze,3175,17/10/2019
+C0386,65+,Non-binary,Silver,4350,17/10/2019
+C0457,35-44,Male,Gold,3004,20/10/2019
+C0265,55-64,Female,Bronze,2000,22/10/2019
+C0148,25-34,Prefer not to say,Bronze,2000,28/10/2019
+C0301,25-34,Prefer not to say,Silver,2150,28/10/2019
+C0440,65+,Prefer not to say,Silver,2150,28/10/2019
+C0233,65+,Prefer not to say,Bronze,3121,1/11/2019
+C0127,25-34,Prefer not to say,Bronze,2067,2/11/2019
+C0371,65+,Non-binary,Bronze,5000,3/11/2019
+C0255,25-34,Male,Bronze,3121,4/11/2019
+C0471,35-44,Male,Bronze,2150,7/11/2019
+C0454,65+,Prefer not to say,Bronze,3121,8/11/2019
+C0042,18-24,Female,Bronze,4000,8/11/2019
+C0465,25-34,Prefer not to say,Silver,6000,9/11/2019
+C0359,25-34,Male,Bronze,2150,12/11/2019
+C0082,45-54,Female,Bronze,6000,12/11/2019
+C0210,55-64,Prefer not to say,Silver,2150,25/11/2019
+C0048,18-24,Female,Bronze,4350,26/11/2019
+C0304,25-34,Non-binary,Silver,3004,27/11/2019
+C0409,55-64,Female,Bronze,6000,28/11/2019
+C0163,25-34,Male,Bronze,4000,29/11/2019
+C0149,35-44,Non-binary,Silver,4350,29/11/2019
+C0449,45-54,Non-binary,Silver,3175,10/12/2019
+C0449,45-54,Non-binary,Silver,3175,11/12/2019
+C0186,45-54,Non-binary,Bronze,3004,14/12/2019
+C0306,35-44,Female,Bronze,3121,17/12/2019
+C0279,55-64,Non-binary,Bronze,2000,19/12/2019
+C0373,55-64,Prefer not to say,Bronze,3000,24/12/2019
+C0078,18-24,Non-binary,Bronze,3175,17/1/2020
+C0421,45-54,Non-binary,Bronze,3000,20/1/2020
+C0380,45-54,Non-binary,Silver,3175,22/1/2020
+C0475,55-64,Female,Bronze,3121,23/1/2020
+C0432,35-44,Male,Gold,5000,25/1/2020
+C0134,25-34,Male,Silver,3121,26/1/2020
+C0411,55-64,Male,Bronze,4000,29/1/2020
+C0379,45-54,Male,Silver,4350,1/2/2020
+C0477,45-54,Prefer not to say,Silver,5152,5/2/2020
+C0272,25-34,Prefer not to say,Bronze,3004,6/2/2020
+C0343,25-34,Male,Bronze,3004,7/2/2020
+C0286,45-54,Prefer not to say,Bronze,2150,10/2/2020
+C0203,45-54,Non-binary,Gold,6000,12/2/2020
+C0447,45-54,Non-binary,Gold,3121,17/2/2020
+C0219,55-64,Female,Bronze,5000,23/2/2020
+C0116,65+,Female,Silver,3004,24/2/2020
+C0206,65+,Female,Bronze,3000,1/3/2020
+C0319,45-54,Non-binary,Silver,3000,4/3/2020
+C0245,45-54,Non-binary,Silver,6000,6/3/2020
+C0492,55-64,Female,Silver,3175,15/3/2020
+C0417,55-64,Prefer not to say,Gold,3175,16/3/2020
+C0425,35-44,Non-binary,Silver,2150,17/3/2020
+C0020,65+,Prefer not to say,Bronze,3121,21/3/2020
+C0303,55-64,Male,Bronze,2000,31/3/2020
+C0499,45-54,Female,Silver,3000,3/4/2020
+C0094,65+,Non-binary,Silver,3175,4/4/2020
+C0468,45-54,Non-binary,Bronze,5152,10/4/2020
+C0407,35-44,Prefer not to say,Bronze,3000,11/4/2020
+C0248,35-44,Male,Silver,3175,15/4/2020
+C0209,65+,Female,Bronze,2000,19/4/2020
+C0438,55-64,Prefer not to say,Gold,6000,20/4/2020
+C0333,35-44,Female,Gold,5000,21/4/2020
+C0270,35-44,Prefer not to say,Bronze,6000,27/4/2020
+C0200,35-44,Non-binary,Silver,2000,29/4/2020
+C0117,45-54,Non-binary,Silver,2067,29/4/2020
+C0405,55-64,Male,Bronze,5152,3/5/2020
+C0095,65+,Prefer not to say,Silver,3121,11/5/2020
+C0276,65+,Male,Gold,5000,16/5/2020
+C0046,45-54,Prefer not to say,Gold,3000,17/5/2020
+C0290,45-54,Prefer not to say,Bronze,3175,18/5/2020
+C0107,25-34,Female,Silver,6000,20/5/2020
+C0372,25-34,Prefer not to say,Bronze,3000,22/5/2020
+C0296,25-34,Female,Bronze,6000,30/5/2020
+C0296,25-34,Female,Bronze,6000,31/5/2020
+C0217,25-34,Female,Silver,5000,1/6/2020
+C0181,65+,Non-binary,Silver,3000,3/6/2020
+C0397,55-64,Male,Silver,4350,5/6/2020
+C0089,35-44,Non-binary,Bronze,4350,8/6/2020
+C0122,45-54,Male,Bronze,5152,11/6/2020
+C0091,18-24,Female,Bronze,3004,12/6/2020
+C0122,45-54,Male,Bronze,5152,13/6/2020
+C0318,45-54,Female,Bronze,2000,15/6/2020
+C0114,18-24,Non-binary,Bronze,2150,18/6/2020
+C0114,18-24,Non-binary,Bronze,2150,19/6/2020
+C0367,45-54,Non-binary,Gold,4000,19/6/2020
+C0336,45-54,Non-binary,Silver,4350,21/6/2020
+C0249,45-54,Female,Gold,3004,27/6/2020
+C0383,25-34,Non-binary,Silver,4000,2/7/2020
+C0498,55-64,Male,Bronze,3000,3/7/2020
+C0152,18-24,Male,Bronze,2067,6/7/2020
+C0346,55-64,Male,Gold,3000,7/7/2020
+C0049,25-34,Prefer not to say,Bronze,4000,7/7/2020
+C0490,45-54,Prefer not to say,Bronze,5152,7/7/2020
+C0168,45-54,Non-binary,Gold,2067,11/7/2020
+C0109,25-34,Prefer not to say,Silver,4350,23/7/2020
+C0428,25-34,Female,Bronze,5000,24/7/2020
+C0142,65+,Female,Bronze,6000,30/7/2020
+C0495,35-44,Female,Bronze,6000,1/8/2020
+C0196,18-24,Female,Bronze,6000,3/8/2020
+C0242,65+,Non-binary,Silver,3004,8/8/2020
+C0395,65+,Non-binary,Bronze,4350,12/8/2020
+C0416,45-54,Non-binary,Bronze,3004,14/8/2020
+C0391,55-64,Female,Silver,3004,15/8/2020
+C0184,55-64,Prefer not to say,Gold,3121,21/8/2020
+C0488,18-24,Non-binary,Bronze,3121,24/8/2020
+C0198,25-34,Prefer not to say,Silver,2067,25/8/2020
+C0345,65+,Female,Silver,4000,25/8/2020
+C0364,35-44,Male,Silver,3175,27/8/2020
+C0345,65+,Female,Silver,4000,27/8/2020
+C0154,55-64,Non-binary,Bronze,6000,27/8/2020
+C0112,45-54,Non-binary,Silver,5152,30/8/2020
+C0456,65+,Female,Silver,2000,4/9/2020
+C0476,25-34,Prefer not to say,Silver,5000,6/9/2020
+C0393,55-64,Prefer not to say,Silver,5000,7/9/2020
+C0435,25-34,Prefer not to say,Bronze,5152,10/9/2020
+C0235,35-44,Non-binary,Silver,4000,13/9/2020
+C0144,45-54,Prefer not to say,Silver,5000,17/9/2020
+C0158,35-44,Non-binary,Gold,3175,18/9/2020
+C0212,55-64,Male,Silver,3175,26/9/2020
+C0141,18-24,Prefer not to say,Gold,5152,30/9/2020
+C0264,65+,Prefer not to say,Bronze,3004,1/10/2020
+C0390,18-24,Non-binary,Silver,2150,8/10/2020
+C0228,35-44,Female,Silver,2150,14/10/2020
+C0316,25-34,Male,Bronze,2150,23/10/2020
+C0464,45-54,Non-binary,Bronze,3004,29/10/2020
+C0111,45-54,Prefer not to say,Gold,6000,30/10/2020
+C0140,65+,Non-binary,Bronze,2067,2/11/2020
+C0065,35-44,Female,Gold,3004,2/11/2020
+C0312,18-24,Non-binary,Bronze,3000,5/11/2020
+C0330,55-64,Male,Silver,5000,5/11/2020
+C0327,35-44,Male,Bronze,3121,7/11/2020
+C0023,45-54,Male,Silver,3004,9/11/2020
+C0305,65+,Male,Silver,3175,11/11/2020
+C0291,18-24,Non-binary,Bronze,2000,15/11/2020
+C0190,18-24,Prefer not to say,Bronze,3175,19/11/2020
+C0108,45-54,Male,Silver,3004,26/11/2020
+C0191,35-44,Prefer not to say,Silver,3000,27/11/2020
+C0143,65+,Non-binary,Silver,4350,4/12/2020
+C0337,45-54,Female,Silver,5000,16/12/2020
+C0026,35-44,Male,Silver,3004,19/12/2020
+C0267,35-44,Prefer not to say,Silver,2067,22/12/2020
+C0267,35-44,Prefer not to say,Silver,2067,23/12/2020
+C0431,45-54,Non-binary,Bronze,3000,26/12/2020
+C0016,65+,Female,Bronze,2067,29/12/2020
+C0202,45-54,Non-binary,Bronze,4350,8/1/2021
+C0234,35-44,Non-binary,Silver,2000,9/1/2021
+C0031,55-64,Male,Silver,4000,9/1/2021
+C0491,25-34,Non-binary,Bronze,4350,9/1/2021
+C0180,45-54,Prefer not to say,Bronze,3000,10/1/2021
+C0387,35-44,Non-binary,Gold,6000,15/1/2021
+C0463,55-64,Prefer not to say,Gold,3121,17/1/2021
+C0494,45-54,Prefer not to say,Silver,3175,20/1/2021
+C0406,35-44,Non-binary,Bronze,5152,22/1/2021
+C0121,55-64,Female,Bronze,2000,23/1/2021
+C0155,35-44,Non-binary,Silver,2000,1/2/2021
+C0155,35-44,Non-binary,Silver,2000,3/2/2021
+C0269,65+,Female,Bronze,3175,3/2/2021
+C0077,25-34,Prefer not to say,Bronze,2000,5/2/2021
+C0195,45-54,Male,Bronze,3004,5/2/2021
+C0161,35-44,Female,Silver,4000,7/2/2021
+C0339,18-24,Male,Bronze,3121,8/2/2021
+C0339,18-24,Male,Bronze,3121,9/2/2021
+C0151,25-34,Prefer not to say,Silver,4000,11/2/2021
+C0055,65+,Prefer not to say,Bronze,2000,12/2/2021
+C0321,65+,Prefer not to say,Bronze,6000,16/2/2021
+C0075,18-24,Male,Bronze,6000,22/2/2021
+C0241,35-44,Female,Silver,5152,23/2/2021
+C0275,35-44,Male,Bronze,5152,24/2/2021
+C0382,18-24,Non-binary,Silver,6000,24/2/2021
+C0484,18-24,Prefer not to say,Silver,2000,28/2/2021
+C0125,65+,Male,Bronze,2067,1/3/2021
+C0284,65+,Prefer not to say,Bronze,6000,5/3/2021
+C0178,35-44,Prefer not to say,Bronze,6000,11/3/2021
+C0422,55-64,Female,Bronze,2000,13/3/2021
+C0280,25-34,Prefer not to say,Silver,5000,21/3/2021
+C0044,45-54,Female,Silver,2067,26/3/2021
+C0232,35-44,Female,Bronze,2000,1/4/2021
+C0309,45-54,Non-binary,Gold,5152,1/4/2021
+C0418,35-44,Male,Bronze,4000,9/4/2021
+C0482,45-54,Male,Gold,4000,9/4/2021
+C0022,45-54,Non-binary,Bronze,3121,10/4/2021
+C0185,45-54,Prefer not to say,Gold,4000,13/4/2021
+C0223,35-44,Prefer not to say,Silver,4000,18/4/2021
+C0040,55-64,Female,Silver,3000,19/4/2021
+C0258,35-44,Male,Bronze,3000,20/4/2021
+C0402,55-64,Female,Bronze,5000,27/4/2021
+C0261,18-24,Prefer not to say,Silver,5000,30/4/2021
+C0059,18-24,Female,Bronze,5000,3/5/2021
+C0110,35-44,Prefer not to say,Silver,6000,4/5/2021
+C0025,18-24,Prefer not to say,Bronze,4000,6/5/2021
+C0288,18-24,Male,Bronze,5000,6/5/2021
+C0351,55-64,Male,Silver,5000,7/5/2021
+C0419,65+,Prefer not to say,Bronze,3000,8/5/2021
+C0009,35-44,Male,Silver,4350,21/5/2021
+C0403,35-44,Male,Silver,3000,24/5/2021
+C0167,55-64,Female,Silver,2067,26/5/2021
+C0098,65+,Non-binary,Bronze,4000,27/5/2021
+C0348,55-64,Prefer not to say,Bronze,2000,31/5/2021
+C0194,25-34,Female,Bronze,3000,31/5/2021
+C0147,65+,Prefer not to say,Bronze,4000,3/6/2021
+C0281,65+,Male,Silver,5152,10/6/2021
+C0401,55-64,Male,Silver,3121,12/6/2021
+C0353,35-44,Female,Silver,3121,13/6/2021
+C0314,55-64,Prefer not to say,Bronze,4350,13/6/2021
+C0096,55-64,Non-binary,Bronze,3000,14/6/2021
+C0011,35-44,Female,Silver,3000,20/6/2021
+C0080,65+,Female,Gold,3175,25/6/2021
+C0132,25-34,Female,Bronze,5152,26/6/2021
+C0124,55-64,Male,Gold,5000,28/6/2021
+C0424,65+,Male,Bronze,3004,30/6/2021
+C0266,65+,Non-binary,Bronze,5000,2/7/2021
+C0030,35-44,Female,Bronze,3121,4/7/2021
+C0175,55-64,Female,Bronze,4350,4/7/2021
+C0165,65+,Male,Bronze,5000,13/7/2021
+C0165,65+,Male,Bronze,5000,14/7/2021
+C0320,65+,Non-binary,Bronze,3004,16/7/2021
+C0213,65+,Non-binary,Gold,6000,16/7/2021
+C0311,35-44,Non-binary,Silver,2150,17/7/2021
+C0361,25-34,Female,Bronze,4000,17/7/2021
+C0101,55-64,Non-binary,Bronze,3175,20/7/2021
+C0285,18-24,Male,Silver,3175,20/7/2021
+C0350,55-64,Prefer not to say,Bronze,4000,1/8/2021
+C0001,18-24,Male,Silver,3175,2/8/2021
+C0396,55-64,Female,Silver,3121,3/8/2021
+C0300,45-54,Non-binary,Bronze,3000,4/8/2021
+C0396,55-64,Female,Silver,3121,5/8/2021
+C0489,65+,Prefer not to say,Bronze,2067,6/8/2021
+C0252,65+,Male,Bronze,2150,7/8/2021
+C0360,25-34,Prefer not to say,Gold,4000,9/8/2021
+C0377,35-44,Non-binary,Bronze,5000,14/8/2021
+C0231,18-24,Non-binary,Silver,3000,16/8/2021
+C0038,35-44,Prefer not to say,Gold,4000,23/8/2021
+C0005,65+,Prefer not to say,Bronze,5000,23/8/2021
+C0344,35-44,Female,Bronze,2000,24/8/2021
+C0458,55-64,Female,Silver,6000,28/8/2021
+C0434,55-64,Female,Silver,5000,4/9/2021
+C0322,55-64,Female,Bronze,5000,6/9/2021
+C0358,65+,Male,Silver,6000,7/9/2021
+C0061,55-64,Non-binary,Gold,3175,8/9/2021
+C0230,65+,Female,Silver,5152,12/9/2021
+C0257,18-24,Female,Bronze,3175,15/9/2021
+C0012,25-34,Non-binary,Gold,3175,16/9/2021
+C0188,45-54,Male,Bronze,2150,18/9/2021
+C0323,25-34,Non-binary,Bronze,5152,21/9/2021
+C0354,65+,Male,Silver,2150,22/9/2021
+C0092,35-44,Non-binary,Silver,3004,22/9/2021
+C0079,18-24,Non-binary,Silver,2067,27/9/2021
+C0062,65+,Non-binary,Bronze,2067,3/10/2021
+C0239,35-44,Prefer not to say,Silver,2150,8/10/2021
+C0102,35-44,Female,Silver,3121,9/10/2021
+C0047,65+,Male,Bronze,6000,11/10/2021
+C0237,45-54,Non-binary,Bronze,2067,13/10/2021
+C0211,55-64,Prefer not to say,Gold,5152,13/10/2021
+C0467,25-34,Female,Silver,5152,13/10/2021
+C0099,25-34,Prefer not to say,Silver,6000,15/10/2021
+C0136,45-54,Prefer not to say,Gold,3175,19/10/2021
+C0292,65+,Prefer not to say,Silver,2000,20/10/2021
+C0376,45-54,Male,Bronze,3175,20/10/2021
+C0123,45-54,Female,Silver,3121,22/10/2021
+C0087,55-64,Non-binary,Gold,3004,23/10/2021
+C0375,25-34,Male,Bronze,5000,23/10/2021
+C0442,65+,Non-binary,Silver,3175,26/10/2021
+C0027,55-64,Non-binary,Silver,2150,28/10/2021
+C0218,25-34,Female,Bronze,5000,28/10/2021
+C0138,55-64,Male,Silver,5000,2/11/2021
+C0250,35-44,Non-binary,Bronze,2000,5/11/2021
+C0227,65+,Male,Gold,6000,5/11/2021
+C0071,65+,Non-binary,Silver,2000,8/11/2021
+C0037,25-34,Non-binary,Bronze,5152,13/11/2021
+C0153,25-34,Non-binary,Silver,2150,17/11/2021
+C0368,45-54,Non-binary,Gold,4350,18/11/2021
+C0332,55-64,Female,Silver,3000,19/11/2021
+C0472,25-34,Male,Silver,4000,19/11/2021
+C0282,35-44,Male,Bronze,6000,21/11/2021
+C0119,18-24,Prefer not to say,Bronze,2150,25/11/2021
+C0246,55-64,Prefer not to say,Silver,6000,27/11/2021
+C0193,45-54,Male,Bronze,5152,1/12/2021
+C0324,65+,Prefer not to say,Bronze,6000,1/12/2021
+C0487,18-24,Male,Gold,3004,5/12/2021
+C0015,65+,Male,Silver,3121,8/12/2021
+C0174,45-54,Male,Silver,2000,10/12/2021
+C0067,35-44,Male,Silver,4350,11/12/2021
+C0479,35-44,Male,Gold,3004,12/12/2021
+C0160,55-64,Female,Bronze,3000,21/12/2021
+C0388,65+,Female,Silver,4350,24/12/2021

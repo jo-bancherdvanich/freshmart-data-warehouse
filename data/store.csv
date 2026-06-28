@@ -1,0 +1,13 @@
+StoreID,StoreName,City,State,Region,StoreFormat,OpeningDate,SquareMetres
+ST01,FreshMart Melbourne Central,Melbourne,VIC,South,Metro,2015-03-01,4200
+ST02,FreshMart Richmond,Melbourne,VIC,South,Metro,2016-07-15,3100
+ST03,FreshMart Dandenong,Melbourne,VIC,South,Suburban,2017-02-20,2800
+ST04,FreshMart Geelong,Geelong,VIC,South,Suburban,2018-05-10,2500
+ST05,FreshMart Sydney CBD,Sydney,NSW,East,Metro,2014-09-01,4800
+ST06,FreshMart Parramatta,Sydney,NSW,East,Suburban,2016-11-03,3300
+ST07,FreshMart Chatswood,Sydney,NSW,East,Metro,2019-04-22,3600
+ST08,FreshMart Brisbane City,Brisbane,QLD,North,Metro,2017-08-14,4100
+ST09,FreshMart Toowoomba,Toowoomba,QLD,North,Suburban,2020-01-06,2200
+ST10,FreshMart Adelaide Central,Adelaide,SA,West,Metro,2015-06-30,3900
+ST11,FreshMart Mount Barker,Mt Barker,SA,West,Suburban,2021-03-15,1800
+ST12,FreshMart Perth CBD,Perth,WA,West,Express,2022-02-01,1200

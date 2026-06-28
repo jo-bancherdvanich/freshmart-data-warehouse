@@ -1,0 +1,61 @@
+ProductID,ProductName,Brand,Category,Subcategory,SupplierID,UnitCost,IsOrganic
+P001,Full Cream Milk 2L,DairyFarm,Dairy,Milk,SUP01,1.2,0
+P002,Skim Milk 2L,DairyFarm,dairy,Milk,SUP01,1.18,0
+P003,Organic Oat Milk 1L,NatureSip,Dairy,Milk,SUP02,1.8,1
+P004,Tasty Cheese 500g,DairyFarm,Dairy,Cheese,SUP01,3.2,0
+P005,Brie Wheel 200g,Fromage Co,Dairy,Cheese,SUP03,4.1,0
+P006,Greek Yoghurt 500g,CulturedCo,dairy,Yoghurt,SUP02,2.3,0
+P007,Strawberry Yoghurt 150g,CulturedCo,Dairy,Yoghurt,SUP02,1.1,0
+P008,Unsalted Butter 250g,DairyFarm,Dairy,Butter,SUP01,2.4,0
+P009,Cream Cheese 200g,DairyFarm,Dairy,Cheese,SUP01,2,0
+P010,Lactose Free Milk 1L,DairyFarm,Diary,Milk,SUP01,2.1,0
+P011,White Sourdough 700g,BakeCraft,Bakery,Bread,SUP04,1.9,0
+P012,Wholemeal Loaf 650g,BakeCraft,Bakery,Bread,SUP04,1.7,0
+P013,Multigrain Bread 700g,GrainGood,Bakery,Bread,SUP05,1.8,0
+P014,Croissant 4-pack,BakeCraft,Bakery,Pastry,SUP04,2.6,0
+P015,Blueberry Muffin 4-pack,BakeCraft,bakery,Pastry,SUP04,2.8,0
+P016,Rye Bread 600g,GrainGood,Bakery,Bread,SUP05,2.2,0
+P017,Banana Bread Loaf,BakeCraft,Bakery,Pastry,SUP04,3.5,0
+P018,Gluten Free Loaf 500g,FreeFrom,Bakery,Bread,SUP06,3.8,0
+P019,Cinnamon Scroll 2-pack,BakeCraft,Bakery,Pastry,SUP04,3.1,0
+P020,Focaccia 400g,BakeCraft,Bakery,Bread,SUP04,2.9,0
+P021,Broccoli 500g,FarmFresh,Produce,Vegetable,SUP07,0.9,0
+P022,Organic Spinach 200g,GreenLeaf,Produce,Vegetable,SUP08,1.6,1
+P023,Carrots 1kg,FarmFresh,Produce,Vegetable,SUP07,0.8,0
+P024,Roma Tomatoes 500g,FarmFresh,produce,Vegetable,SUP07,1.2,0
+P025,Organic Apples 6-pack,GreenLeaf,Produce,Fruit,SUP08,2.8,1
+P026,Bananas 1kg,FarmFresh,Produce,Fruit,SUP07,0.95,0
+P027,Strawberries 250g,FarmFresh,Produce,Fruit,SUP07,2.5,0
+P028,Avocado each,FarmFresh,Produce,Fruit,SUP07,1.1,0
+P029,Sweet Potato 1kg,FarmFresh,Produce,Vegetable,SUP07,1.3,0
+P030,Mixed Salad Leaves 120g,GreenLeaf,Produce,Vegetable,SUP08,1.5,0
+P031,Chicken Breast 500g,MeatCo,Meat,Chicken,SUP09,5.5,0
+P032,Beef Mince 500g,MeatCo,Meat,Beef,SUP09,5.8,0
+P033,Lamb Chops 500g,MeatCo,Meat,Lamb,SUP09,7.2,0
+P034,Pork Sausages 6-pack,MeatCo,meat,Pork,SUP09,4.3,0
+P035,Salmon Fillet 200g,OceanCo,Meat,Seafood,SUP10,8.5,0
+P036,Prawns 400g,OceanCo,Meat,Seafood,SUP10,9,0
+P037,Chicken Thighs 600g,MeatCo,Meat,Chicken,SUP09,5,0
+P038,Beef Steak 300g,PremiumCuts,Meat,Beef,SUP11,12.5,0
+P039,Turkey Mince 500g,MeatCo,Meat,Turkey,SUP09,5.6,0
+P040,Tuna Steak 200g,OceanCo,Meat,Seafood,SUP10,7.8,0
+P041,Cola 2L,FizzUp,Beverages,Soft Drink,SUP12,0.85,0
+P042,Orange Juice 1L,SunPress,Beverages,Juice,SUP13,1.8,0
+P043,Sparkling Water 1.25L,AquaPure,Beverages,Water,SUP14,0.7,0
+P044,Lemonade 2L,FizzUp,beverages,Soft Drink,SUP12,0.9,0
+P045,Green Tea 25-pack,LeafLife,Beverages,Tea,SUP15,2.2,0
+P046,Ground Coffee 250g,RoastHouse,Beverages,Coffee,SUP16,5.5,0
+P047,Apple Juice 1L,SunPress,Beverages,Juice,SUP13,1.6,0
+P048,Coconut Water 330ml,TropiCo,Beverages,Water,SUP17,1.3,0
+P049,Energy Drink 250ml,BoltUp,Beverages,Energy,SUP18,1.5,0
+P050,Herbal Tea 20-pack,LeafLife,Beverages,Tea,SUP15,2,0
+P051,Pasta Spaghetti 500g,ItalFare,Pantry,Pasta,SUP19,0.95,0
+P052,Canned Tomatoes 400g,ItalFare,Pantry,Canned,SUP19,0.8,0
+P053,Olive Oil 500ml,MedGrove,Pantry,Oils,SUP20,5.2,0
+P054,Basmati Rice 1kg,GrainGood,Pantry,Rice,SUP05,1.4,0
+P055,Rolled Oats 750g,GrainGood,pantry,Cereals,SUP05,1.1,0
+P056,Honey 500g,HiveGold,Pantry,Spreads,SUP21,4.8,1
+P057,Peanut Butter 375g,NutHouse,Pantry,Spreads,SUP22,2.9,0
+P058,Dark Chocolate 100g,ChocoLux,Pantry,Confect,SUP23,2.1,0
+P059,Cornflakes 500g,GrainGood,Pantry,Cereals,SUP05,1.3,0
+P060,Tomato Sauce 500ml,ItalFare,Pantry,Condiment,SUP19,1.6,0

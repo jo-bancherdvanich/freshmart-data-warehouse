@@ -1,0 +1,22 @@
+PromotionID,PromotionName,PromotionType,StartDate,EndDate,DiscountRate
+PROMO00,No Promotion,N/A,,,0.0
+PROMO01,Summer Splash,Percentage Discount,2024-03-27,2024-04-15,0.15
+PROMO02,Winter Warm-Up,Percentage Discount,2023-10-07,2023-10-19,0.1
+PROMO03,Easter Bonanza,Percentage Discount,2022-07-10,2022-08-06,0.2
+PROMO04,Christmas Deals,Percentage Discount,2023-11-05,2023-11-25,0.25
+PROMO05,BOGOF Dairy,BOGOF,2023-02-10,2023-02-17,0.5
+PROMO06,BOGOF Beverages,BOGOF,2024-01-26,2024-02-21,0.5
+PROMO07,Bakery Bundle,Bundle,2022-07-22,2022-08-12,0.12
+PROMO08,BBQ Bundle,Bundle,2023-08-30,2023-09-19,0.15
+PROMO09,Double Points Week,Loyalty Points Bonus,2023-02-03,2023-02-10,0.0
+PROMO10,Triple Points Day,Loyalty Points Bonus,2023-12-23,2024-01-05,0.0
+PROMO11,Meat Monday,Percentage Discount,2022-07-30,2022-08-14,0.1
+PROMO12,Fresh Friday,Percentage Discount,2024-02-10,2024-02-19,0.08
+PROMO13,Pantry Clearance,Clearance,2023-08-15,2023-08-25,0.3
+PROMO14,Produce Clearance,Clearance,2024-03-29,2024-04-22,0.25
+PROMO15,Mid-Year Sale,Percentage Discount,2022-07-11,2022-07-29,0.15
+PROMO16,New Year Special,Percentage Discount,2022-11-30,2022-12-13,0.2
+PROMO17,Spring Fresh,Percentage Discount,2023-04-14,2023-04-24,0.12
+PROMO18,Loyalty Fortnight,Loyalty Points Bonus,2022-09-26,2022-10-24,0.0
+PROMO19,Family Bundle,Bundle,2024-06-02,2024-06-24,0.18
+PROMO20,End of Season Clear,Clearance,2023-06-25,2023-07-22,0.35
