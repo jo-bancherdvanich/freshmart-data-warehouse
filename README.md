@@ -15,7 +15,9 @@ Built for **ISYS6013 Business Intelligence and Analytics** at Curtin University 
 
 ![FreshMart Sales Performance Dashboard](images/dashboard-overview.png)
 
-📄 **[Read the full design report (PDF)](docs/freshmart-data-warehouse-report.pdf)** — Kimball four-stage documentation, data quality audit, and ETL steps.
+📖 **[Read the full design report here on GitHub](docs/full-report.md)** — no download needed. Kimball four-stage documentation, star schema, and the data quality audit.
+
+📄 *Also available as a [PDF](docs/freshmart-data-warehouse-report.pdf), which includes the Power BI model view and Power Query screenshots.*
 
 ---
 
@@ -51,11 +53,81 @@ A single **Sales fact table** (17,697 transaction lines) sits at the centre, sur
 | Table | Role | Rows |
 |-------|------|------|
 | `Sales` | Fact (transaction line grain) | 17,697 |
-| `Customer` | Dimension | 514 |
-| `Product` | Dimension | 59 |
+| `Customer` | Dimension | 500 (515 raw, 15 duplicates removed) |
+| `Product` | Dimension | 60 |
 | `Store` | Dimension | 12 |
 | `Promotion` | Dimension | 21 |
 | `Date` | Dimension (generated calendar) | — |
+
+```mermaid
+erDiagram
+    Customer  ||--o{ Sales : "CustomerID"
+    Product   ||--o{ Sales : "ProductID"
+    Store     ||--o{ Sales : "StoreID"
+    Promotion ||--o{ Sales : "PromotionID"
+    Date      ||--o{ Sales : "DateKey"
+
+    Sales {
+        text TransactionID
+        text TransactionLineID PK
+        date Date
+        int DateKey FK
+        text CustomerID FK
+        text ProductID FK
+        text StoreID FK
+        text PromotionID FK
+        int QuantitySold "additive"
+        decimal UnitPrice "non-additive"
+        decimal DiscountAmount "additive"
+        decimal COGS "additive"
+    }
+    Customer {
+        text CustomerID PK
+        text AgeGroup
+        text Gender
+        text LoyaltyTier
+        text PostCode
+        date MemberSince
+    }
+    Product {
+        text ProductID PK
+        text ProductName
+        text Brand
+        text Category
+        text Subcategory
+        text SupplierID
+        decimal UnitCost
+        bool IsOrganic
+    }
+    Store {
+        text StoreID PK
+        text StoreName
+        text City
+        text State
+        text Region
+        text StoreFormat
+        date OpeningDate
+        int Store_Area_sqm
+    }
+    Promotion {
+        text PromotionID PK
+        text PromotionName
+        text PromotionType
+        date StartDate
+        date EndDate
+        decimal DiscountRate
+    }
+    Date {
+        int DateKey PK
+        date Date
+        int Year
+        int Quarter
+        int Month
+        text DayOfWeek
+    }
+```
+
+*Star schema: one central `Sales` fact table joined 1:M to five dimensions. Full-size Power BI model view is in the [design report](docs/freshmart-data-warehouse-report.pdf).*
 
 The model follows Kimball's four-stage method: **business process** (retail sales), **grain** (one row per product per customer per store per date per promotion, the most detailed level so no analytical option is lost), **dimensions** (Product, Customer, Store, Promotion, Date), and **facts** (QuantitySold, UnitPrice, DiscountAmount, COGS).
 
@@ -69,7 +141,7 @@ Each source table was audited and cleaned in **Power Query** before modelling. T
 
 | Table | Problem | Fix |
 |-------|---------|-----|
-| Customer | 30 duplicate records (same CustomerID, slightly different membership dates) | Removed duplicates by CustomerID |
+| Customer | 15 CustomerIDs appear twice, with slightly different membership dates — 30 rows involved | Removed 15 duplicate rows by CustomerID, leaving 500 distinct customers |
 | Product | Inconsistent category spelling/casing (`dairy`, `Diary`, `bakery`) | Standardised category labels via value replacement |
 | Promotion | `N/A` promotion type and blank start/end dates on the no-promotion record | Replaced `N/A` with "No Promotion"; kept blank dates as null to preserve the date type |
 | Sales | Mixed date formats in the raw file | Confirmed the column imported correctly as a Date type |
@@ -89,9 +161,10 @@ The full audit and the Power Query Applied Steps for each table are in the [desi
 ## 📁 Repository Contents
 
 - `freshmart-data-warehouse.pbix` — the Power BI file (star schema model, Power Query ETL, and the dashboard)
-- `docs/freshmart-data-warehouse-report.pdf` — full design report (Kimball documentation, audit, ETL)
+- `docs/full-report.md` — the full design report, readable on GitHub
+- `docs/freshmart-data-warehouse-report.pdf` — the design report as a PDF (with Power BI screenshots)
 - `data/` — the five raw source CSVs (customer, product, promotion, sales, store)
-- `images/` — dashboard and model screenshots
+- `images/` — the dashboard screenshot
 
 ---
 
@@ -107,4 +180,4 @@ The full audit and the Power Query Applied Steps for each table are in the [desi
 
 ## 📫 Author
 
-**Waranyu (JO) Bancherdvanich** — [LinkedIn](https://www.linkedin.com/in/waranyu-ban) · [GitHub](https://github.com/jo-bancherdvanich)
+**Waranyu (JO) Bancherdvanich** — [Portfolio](https://jo-bancherdvanich.github.io/waranyu-CV/) · [LinkedIn](https://www.linkedin.com/in/waranyu-ban) · [GitHub](https://github.com/jo-bancherdvanich)
